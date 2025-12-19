@@ -1,9 +1,9 @@
-birthday-mamaskuu
-├─ index.html
-├─ styles.css
-├─ script.js
-├─ images
-│  ├─ foto1.jpg
-│  └─ secret.jpg
-└─ music
-   └─ JAP.mp3
+birthday/
+├── index.html
+├── styles.css
+├── script.js
+├── images/
+│   ├── foto1.jpg
+│   ├── foto2.jpg
+├── music/
+│   └── lagu.mp3
